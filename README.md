@@ -2,7 +2,9 @@
 
 An interactive web map of around 800 beauty businesses across Dublin, built to find the densest street-level clusters of beauty-conscious foot traffic for targeted flyer distribution.
 
-### 🔗 [View the live interactive map →](https://conorfahy99.github.io/REPO-NAME/)
+Freelance project for **HILO**, a beauty app.
+
+### 🔗 [View the live interactive map →](https://conorfahy99.github.io/dublin-beauty-flyer-map/)
 
 *(Click pins for business details, toggle layers on/off, and zoom to street level.)*
 
